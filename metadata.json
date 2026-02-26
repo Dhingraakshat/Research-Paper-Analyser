@@ -1,0 +1,5 @@
+{
+  "name": "Analyze SLR",
+  "description": "Automated Systematic Literature Review tool for extracting research data using Gemini AI.",
+  "requestFramePermissions": []
+}
